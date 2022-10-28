@@ -32,7 +32,7 @@ Properly using countifs() and look for the right data in order to make sesne the
 - What can you conclude about the Outcomes based on Goals?
 
    1- Campaigns that have a low amount goal, have greated chance to be successful
-   2- [Click Here](https://github.com/f5th/kickstarter-analysis/blob/0c4d8d5fee09ae04612dbe32a0cb8811d093c04b/Outcomes%20Based%20on%20Goal.png) to view chart
+   2- **[Click Here](https://github.com/f5th/kickstarter-analysis/blob/0c4d8d5fee09ae04612dbe32a0cb8811d093c04b/Outcomes%20Based%20on%20Goal.png) to view chart**
  
 - What are some limitations of this dataset?
 
